@@ -90,7 +90,7 @@ function CourseInfo() {
                     </div>
                     <div className='flex items-center justify-between gap-x-4'>
                         <p className='text-midGray sm:text-lg lg:text-xl'>Instructor</p>
-                        <Link to="/mentors/Wade Warren" className='sm:text-lg lg:text-xl underline'>
+                        <Link to="/mentors/mentor-information/Wade Warren" className='sm:text-lg lg:text-xl underline'>
                             Wade Warren
                         </Link>
                     </div>

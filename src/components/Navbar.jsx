@@ -31,7 +31,7 @@ function Navbar() {
                             <Link to="#">Plants & Animals</Link>
                         </li>
                         <li className='py-2'>
-                            <Link to="">Adaptations</Link>
+                            <Link to="#">Adaptations</Link>
                         </li>
                         <li className='py-2'>
                             <Link to="#">Maltilda Study Guide</Link>
@@ -82,7 +82,7 @@ function Navbar() {
                     </ul>
                 </li>
                 <li className='relative group leading-[3.5rem]'>
-                    <Link to="" className='inline-flex items-center'>
+                    <Link to="#" className='inline-flex items-center'>
                         For College
                         <span className='group-hover:rotate-180 transition-all duration-200 delay-100'>
                             <DownArrow/>
