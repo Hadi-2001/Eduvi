@@ -32,3 +32,6 @@
         src: url("../public/fonts/Inter/Inter-SemiBold.woff") format("woff");
     }
 }
+body{
+    background-color: #F7F5FA;
+}
