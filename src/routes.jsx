@@ -5,6 +5,7 @@ import CourseInfo from "./pages/CourseInfo/CourseInfo"
 import Mentors from "./pages/Mentors/Mentors"
 import MentorInformation from "./pages/MentorInformation/MentorInformation"
 import Pricing from "./pages/Pricing/Pricing"
+import BecomeAnInstructor from "./pages/BecomeAnInstructor/BecomeAnInstructor"
 
 const routes = [
     {path: "/",element:<Home/>},
@@ -19,6 +20,7 @@ const routes = [
         {path: "mentor-information/:mentorName", element:<MentorInformation/>},
     ]},
     {path: "/pricing",element:<Pricing/>},
+    {path: "/become-an-instructor",element:<BecomeAnInstructor/>},
 
 ]
 export default routes

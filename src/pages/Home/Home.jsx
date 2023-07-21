@@ -138,7 +138,7 @@ function Home() {
         <div className='sm:w-1/2 shrink-0'>
           <h3 className='font-Metropolis-Bold text-3xl sm:text-4xl lg:text-[2.8125rem] lg:leading-[3.4375rem]'>Want to share your<br/> knowledge? Join us<br/> a Mentor</h3>
           <p className='max-w-4xl mx-auto mt-5 mb-6 lg:mb-10 sm:text-sm lg:text-base'>High-definition video is video of higher resolution and quality than standard-definition. While there is no standardized meaning for high-definition, generally any video.</p>
-          <CustomButton text="Career Information" href="/become" />
+          <CustomButton text="Career Information" href="/become-an-instructor" />
         </div>
       </section>
     </>
